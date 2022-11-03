@@ -2,17 +2,6 @@
 
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-body {
-    background-color: blue;
-}
-h1 {
-    color: red;
-    padding: 60px;
-} 
-</style>
-</head>
 <body>
 
 <section> 
