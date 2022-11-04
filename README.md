@@ -10,7 +10,7 @@
   </div>
 
   <div>
-    <img src="https://github.com/michael0203/web/blob/main/web-1-f-PhotoRoom.png" alt="Imagem web-2" />
+    <img src="https://github.com/michael0203/web/blob/main/web-2-f-PhotoRoom.png" alt="Imagem web-2" />
   </div>
 </section>
 
