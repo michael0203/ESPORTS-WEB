@@ -36,11 +36,12 @@ Tecnologias usadas nesse projeto:
   
   ## 📖 Projeto
   
+  9ª Edição da NLW - O projeto tem como objetivo criar um local tanto web quanto mobile, onde gamers possam encontrar pessoas dispostas a encontrar um duo, e fazer amigos jogando.
   
-</section>
+  </section>
 
-## 📝 License
+  ## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-</body>
-</html>
+  Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+  </body>
+  </html>
